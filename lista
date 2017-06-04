@@ -2,32 +2,6 @@
 
 #PLAYLISTV: pltv-logo="http://s28.postimg.org/66yw0liml/21312sasdas.png" pltv-name="Pedro Junior Tutoriais" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://s30.postimg.org/4w34lok2p/canal_pedro_junior_tutoriais.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(51) 98435-1782"
 
-################################################################################# Informações da Lista
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/i1p1srlvt/Official_site.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/our9cxj1p/youtube.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/l4n16aht9/refresh.png" group-title="Informações da Lista",Atualizado: 04/06/2017
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/rwdg956st/user.png" group-title="Informações da Lista",By Pedro Junior Tutoriais
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/tcoyra9pp/info.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/p4u6ij8a5/zap.png" group-title="Informações da Lista",(51) 98435-1782
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://s15.postimg.org/8hti9t1uj/doa_o-de-dinheiro.jpg" group-title="Informações da Lista",Faça uma Doação
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
-#EXTINF:-1 tvg-logo="http://s15.postimg.org/8hti9t1uj/doa_o-de-dinheiro.jpg" group-title="Informações da Lista",AG 0410 Conta P 25585936-5 Caixa
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
 ################################################################################# Canais Temporários
 
 #EXTINF:-1 group-title="Temporários",Animal Planet HD
